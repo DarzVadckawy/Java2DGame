@@ -1,0 +1,21 @@
+<component name="libraryTable">
+  <library name="Libs">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/src/Libs" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <excluded>
+      <root url="jar://$PROJECT_DIR$/src/Libs/jogg-0.0.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/Libs/jl1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/Libs/jorbis-0.0.15.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/Libs/jspeex0.9.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/Libs/mp3spi1.9.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/Libs/basicplayer3.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/Libs/tritonus_share.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/Libs/vorbisspi1.0.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/Libs/commons-logging-api.jar!/" />
+    </excluded>
+    <jarDirectory url="file://$PROJECT_DIR$/src/Libs" recursive="false" />
+  </library>
+</component>

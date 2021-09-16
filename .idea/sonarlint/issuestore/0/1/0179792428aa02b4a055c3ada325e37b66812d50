@@ -1,0 +1,12 @@
+
+—
+java:S1186O"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(‰Ÿó
+q
+java:S1450"[Remove the "lCurrentTime" field and declare it as a local variable in the relevant methods.(—×¢ô
+F
+java:S3010"+Remove this assignment of "lLastFrameTime".(·Çâêÿÿÿÿÿ
+I
+java:S3010".Remove this assignment of "lCurrentFrameTime".(éÈ £þÿÿÿÿ
+>
+java:S1940D"(Use the opposite operator ("<") instead.(ð¯¶‰
+t	java:S120	"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(²Ó´ýÿÿÿÿ

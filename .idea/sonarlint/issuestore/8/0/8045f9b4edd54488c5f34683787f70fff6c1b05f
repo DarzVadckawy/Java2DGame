@@ -1,0 +1,27 @@
+
+œ
+java:S1186:"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(©õş×üÿÿÿÿ
+—
+java:S1186D"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(÷ÒÚ­
+œ
+java:S1186N"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¢ÆüÖÿÿÿÿÿ
+m
+java:S3776X"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(Òš¹ëúÿÿÿÿ
+M	java:S106q"9Replace this use of System.out or System.err by a logger.(¸¤ª
+7
+java:S1116v"Remove this empty statement.(ôŸìúÿÿÿÿ
+f
+java:S2674¶"JCheck the return value of the "skip" call to see how many bytes were read.(•ã»Âÿÿÿÿÿ
+\
+java:S2147â"ECombine this catch with the one at line 224, which has the same body.(ïĞø
+T	java:S106ù"9Replace this use of System.out or System.err by a logger.(×”Ì‡øÿÿÿÿ
+O	java:S106Š"9Replace this use of System.out or System.err by a logger.(ê·É½
+O	java:S106š"9Replace this use of System.out or System.err by a logger.(Õİö
+T	java:S106á"9Replace this use of System.out or System.err by a logger.(£ÇãÎúÿÿÿÿ
+z
+java:S1488Ì"^Immediately return this expression instead of assigning it to the temporary variable "player".(óŸôşıÿÿÿÿ
+u
+java:S1488Ş"^Immediately return this expression instead of assigning it to the temporary variable "player".(†’õŒ
+t	java:S120	"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(²Ó´ıÿÿÿÿ
+i
+java:S2095´"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(Ìíâòûÿÿÿÿ

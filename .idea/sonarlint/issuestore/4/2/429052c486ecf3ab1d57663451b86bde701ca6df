@@ -1,0 +1,34 @@
+
+T
+java:S5993"9Change the visibility of this constructor to "protected".(½Ì°éüÿÿÿÿ
+o
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ì¼°¡
+t
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(Úä™§ùÿÿÿÿ
+f
+java:S1874Æ"JDon't override a deprecated method or explicitly mark it as "@Deprecated".(†Ôş–ûÿÿÿÿ
+E
+java:S2165È")Remove this nullification of "vetLayers".(Íç‹ıÿÿÿÿ
+F
+java:S2165É"*Remove this nullification of "vetSprites".(Ò’¹êøÿÿÿÿ
+B
+java:S2165Ê"+Remove this nullification of "gameManager".(éœ¯È
+I
+java:S1113Æ"-Do not override the Object.finalize() method.(†Ôş–ûÿÿÿÿ
+B
+java:S1174Æ"&Make this finalize() method protected.(†Ôş–ûÿÿÿÿ
+Š
+java:S1319"tThe type of the "vetLayers" object should be an interface such as "List" rather than the implementation "ArrayList".(ã„Ÿ÷
+Š
+java:S1319"uThe type of the "vetSprites" object should be an interface such as "List" rather than the implementation "ArrayList".(…­Z
+k
+java:S1104"UMake vetLayers a static final constant or non-public and provide accessors if needed.(ã„Ÿ÷
+k
+java:S1104"VMake vetSprites a static final constant or non-public and provide accessors if needed.(…­Z
+t	java:S120	"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(²Ó´ıÿÿÿÿ
+S
+java:S2589¥"7Remove this expression which always evaluates to "true"(íıü¹üÿÿÿÿ
+S
+java:S2589"7Remove this expression which always evaluates to "true"(‚Ì­úÿÿÿÿ
+R
+java:S2589{"7Remove this expression which always evaluates to "true"(‚Ì­úÿÿÿÿ

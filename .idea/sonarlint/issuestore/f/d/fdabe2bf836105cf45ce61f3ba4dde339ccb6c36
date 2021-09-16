@@ -1,0 +1,33 @@
+
+=
+java:S1905“"&Remove this unnecessary cast to "int".(†Úð™
+<
+java:S1905”"&Remove this unnecessary cast to "int".(›žø
+T
+java:S1854Ó"=Remove this useless assignment to local variable "xPosition".(Üãàî
+8
+java:S1110ë"!Remove these useless parentheses.(ÁèÏ§
+8
+java:S1110ë"!Remove these useless parentheses.(ÁèÏ§
+8
+java:S1110õ"!Remove these useless parentheses.(ö—Ò
+8
+java:S1110õ"!Remove these useless parentheses.(ö—Ò
+R	java:S125’"<This block of commented-out lines of code should be removed.(ïæ½Å
+f	java:S117z"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆûéƒ
+f	java:S117z"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆûéƒ
+f	java:S117z"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆûéƒ
+h
+java:S1104"RMake offset a static final constant or non-public and provide accessors if needed.(ù‰º€
+f
+java:S1104"QMake speed a static final constant or non-public and provide accessors if needed.(ä‘É
+p
+java:S1104"UMake blockSize a static final constant or non-public and provide accessors if needed.(Æ¡¶Òùÿÿÿÿ
+k
+java:S1104"UMake layerSize a static final constant or non-public and provide accessors if needed.(¨Ì’Š
+n
+java:S1104"SMake visible a static final constant or non-public and provide accessors if needed.(®áíåþÿÿÿÿ
+k
+java:S1104"UMake vetBlocks a static final constant or non-public and provide accessors if needed.(‚—ÌÀ
+t	java:S120
+"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(²Ó´ýÿÿÿÿ

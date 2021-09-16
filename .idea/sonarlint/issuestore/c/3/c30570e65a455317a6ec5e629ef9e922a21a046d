@@ -1,0 +1,19 @@
+
+k	java:S116"VRename this field "KEYS_NUMBER" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(êö” 
+7
+java:S1170"!Make this final field static too.(êö” 
+˜
+java:S1186¹"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(í¿Şì
+˜
+java:S1186ß"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(³¹³˜
+˜
+java:S1186ö"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(×ÅÎ¹
+
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ºùüüÿÿÿÿ
+r
+java:S4144Ò"[Update this method so that its implementation is not identical to "mouseMoved" on line 196.(Î¦ÿ„
+>
+java:S1125J"(Remove the unnecessary boolean literals.(…¯­è
+>
+java:S1125U"(Remove the unnecessary boolean literals.(ÀŒëà
+t	java:S120	"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(²Ó´ıÿÿÿÿ

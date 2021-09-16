@@ -1,0 +1,97 @@
+
+o
+java:S2293B"YReplace the type specification in this constructor call with the diamond operator ("<>").(åÛùó
+=
+java:S1905‚"&Remove this unnecessary cast to "int".(ÎÔ
+=
+java:S1905ƒ"&Remove this unnecessary cast to "int".(¼ÑùÎ
+i
+java:S3776 "RRefactor this method to reduce its Cognitive Complexity from 25 to the 15 allowed.(¼ì•Ü
+T
+java:S1854¤"=Remove this useless assignment to local variable "xPosition".(Üãàî
+8
+java:S1110Ä"!Remove these useless parentheses.(ÁèÏ§
+8
+java:S1110Ä"!Remove these useless parentheses.(ÁèÏ§
+8
+java:S1110Î"!Remove these useless parentheses.(ö—Ò
+8
+java:S1110Î"!Remove these useless parentheses.(ö—Ò
+i
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 25 to the 15 allowed.(èƒÙ£
+T
+java:S1854…"=Remove this useless assignment to local variable "xPosition".(Üãàî
+8
+java:S1110¥"!Remove these useless parentheses.(ÁèÏ§
+8
+java:S1110¥"!Remove these useless parentheses.(ÁèÏ§
+8
+java:S1110¯"!Remove these useless parentheses.(ö—Ò
+8
+java:S1110¯"!Remove these useless parentheses.(ö—Ò
+R	java:S125í"<This block of commented-out lines of code should be removed.(é“óî
+ˆ
+java:S1319$"rThe type of the "vetAnim" object should be an interface such as "List" rather than the implementation "ArrayList".(ÍìØ¯
+Z
+java:S1155ç">Use isEmpty() to check whether the collection is empty or not.(³Ë°™øÿÿÿÿ
+f
+java:S1104"QMake speed a static final constant or non-public and provide accessors if needed.(ä‘É
+o
+java:S1104"TMake position a static final constant or non-public and provide accessors if needed.(Éº˜ÿÿÿÿÿ
+k
+java:S1104"UMake direction a static final constant or non-public and provide accessors if needed.(…—Ù§
+f
+java:S1104"PMake zoom a static final constant or non-public and provide accessors if needed.(Îˆ—
+n
+java:S1104 "XMake lastPosition a static final constant or non-public and provide accessors if needed.(÷”ã¾
+o
+java:S1104!"TMake initMove a static final constant or non-public and provide accessors if needed.(«‡Äùÿÿÿÿ
+n
+java:S1104""SMake endMove a static final constant or non-public and provide accessors if needed.(ù¼”ûıÿÿÿÿ
+r
+java:S1104#"WMake spriteImage a static final constant or non-public and provide accessors if needed.(´‹ÑÉıÿÿÿÿ
+i
+java:S1104$"SMake vetAnim a static final constant or non-public and provide accessors if needed.(ÍìØ¯
+r
+java:S1104%"WMake gameManager a static final constant or non-public and provide accessors if needed.(ø­õ¶ıÿÿÿÿ
+p
+java:S1104&"UMake moveTimer a static final constant or non-public and provide accessors if needed.(ëûÒüÿÿÿÿ
+n
+java:S1104'"SMake visible a static final constant or non-public and provide accessors if needed.(ëÃÁºıÿÿÿÿ
+l
+java:S1104("VMake autoRender a static final constant or non-public and provide accessors if needed.(Áì
+q
+java:S1104)"VMake imageWidth a static final constant or non-public and provide accessors if needed.(šÕ‹Ôşÿÿÿÿ
+r
+java:S1104*"WMake imageHeight a static final constant or non-public and provide accessors if needed.(‡ûÿÿÿÿÿ
+q
+java:S1104+"VMake frameWidth a static final constant or non-public and provide accessors if needed.(´Œ˜üÿÿÿÿ
+r
+java:S1104,"WMake frameHeight a static final constant or non-public and provide accessors if needed.(–‰Ø†üÿÿÿÿ
+h
+java:S1104-"RMake fAngle a static final constant or non-public and provide accessors if needed.(Ûí¯ë
+[
+java:S2184T"@Cast one of the operands of this integer division to a "double".(ıô‡ˆıÿÿÿÿ
+[
+java:S2184U"@Cast one of the operands of this integer division to a "double".(€ìªÑûÿÿÿÿ
+^
+java:S2184å"BCast one of the operands of this division operation to a "double".(Ë×ë˜ûÿÿÿÿ
+^
+java:S2184å"BCast one of the operands of this division operation to a "double".(Ë×ë˜ûÿÿÿÿ
+\
+java:S2184İ"@Cast one of the operands of this integer division to a "double".(†üÈªûÿÿÿÿ
+W
+java:S2184â"@Cast one of the operands of this integer division to a "double".(Ëë¼Ù
+V
+java:S2184í"@Cast one of the operands of this integer division to a "double".(È·|
+\
+java:S2184ñ"@Cast one of the operands of this integer division to a "double".(ª¼‘ ûÿÿÿÿ
+\
+java:S2184¾"@Cast one of the operands of this integer division to a "double".(†üÈªûÿÿÿÿ
+W
+java:S2184Ã"@Cast one of the operands of this integer division to a "double".(Ëë¼Ù
+V
+java:S2184Í"@Cast one of the operands of this integer division to a "double".(´Ê.
+\
+java:S2184Ñ"@Cast one of the operands of this integer division to a "double".(Íêó–úÿÿÿÿ
+t	java:S120	"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(²Ó´ıÿÿÿÿ

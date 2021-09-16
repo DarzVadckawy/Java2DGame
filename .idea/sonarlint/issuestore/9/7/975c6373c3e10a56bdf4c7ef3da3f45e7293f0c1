@@ -1,0 +1,8 @@
+
+—
+java:S1186L"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(‰Ÿó
+t	java:S120	"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(²Ó´ıÿÿÿÿ
+]
+java:S2095;"HUse try-with-resources or close this "FileWriter" in a "finally" clause.(©Á…
+^
+java:S2095$"HUse try-with-resources or close this "FileWriter" in a "finally" clause.(âª€ˆ
